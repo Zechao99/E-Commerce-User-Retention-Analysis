@@ -157,7 +157,7 @@ RFM 是客户价值分析的经典框架：
 
 完整代码、数据清洗脚本、分析流水线、所有图表都开源在 GitHub：
 
-👉 **[项目 GitHub 仓库](https://github.com/你的用户名/ecommerce-user-retention-analysis)**
+👉 **[项目 GitHub 仓库](https://github.com/Zechao99/E-Commerce-User-Retention-Analysis)**
 
 包含：
 - `src/analysis.py`：一键跑完全部分析
