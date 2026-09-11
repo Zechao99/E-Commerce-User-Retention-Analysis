@@ -1,0 +1,11 @@
+{
+  "total_customers": 4338,
+  "repeat_rate_pct": 98.4,
+  "repurchase_90d_pct": 65.6,
+  "repurchase_180d_pct": 88.3,
+  "median_gap_days": 57.0,
+  "avg_gap_days": 82.0,
+  "top20_revenue_pct": 74.6,
+  "best_model": "Logistic Regression",
+  "best_auc": 0.736
+}
